@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Bonjour
 * test merge avec conflit1
 * test merge avec conflit2
@@ -6,5 +7,8 @@
 * ajout develop 1
 * ajout develop 2
 * ajout develop 3
+=======
+
+>>>>>>> feature-one
 
 
